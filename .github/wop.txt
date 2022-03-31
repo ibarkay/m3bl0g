@@ -1,0 +1,4 @@
+github
+hexo generate 
+hexo deploy
+netlify deploy --prod
