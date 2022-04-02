@@ -4,7 +4,7 @@ date: 2021-09-15 08:52:52
 tags:
 ---
 
-![alt](2021/09/15/DOUBLETROUBLE/dubletrubleNmap.png)
+![alt](dubletrubleNmap.png)
 
 <!-- more -->
 
